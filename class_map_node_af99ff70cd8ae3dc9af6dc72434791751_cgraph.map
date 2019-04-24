@@ -1,0 +1,7 @@
+<map id="MapNode::getCoordinates" name="MapNode::getCoordinates">
+<area shape="rect" id="node2" href="$class_map_node.html#ad1850a49ff582c7bf0180b2ce30897e5" title="MapNode::setCoordinates" alt="" coords="245,5,433,32"/>
+<area shape="rect" id="node3" href="$class_map_node.html#ac1cf958130f88ed5a8add6d960f24dee" title="Increase Height Increases the height of the node and its sprite This function should not be called di..." alt="" coords="245,56,432,83"/>
+<area shape="rect" id="node4" href="$class_map_node.html#a71ebd09b42a9a1362ded705b6daab106" title="Decrease Height Decreases the height of the node and its sprite This function should not be called di..." alt="" coords="243,107,435,133"/>
+<area shape="rect" id="node5" href="$class_map_node.html#a0c86b89666392a499c8a50a322b71965" title="Render MapNode Renders the sprite object(s) of the node. " alt="" coords="272,157,405,184"/>
+<area shape="rect" id="node6" href="$class_map_node.html#a56edbdd0e77eeeb82db4d5884c96048b" title="MapNode::setBitmask" alt="" coords="257,208,420,235"/>
+</map>

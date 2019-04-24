@@ -1,0 +1,19 @@
+<map id="TileManager::instance" name="TileManager::instance">
+<area shape="rect" id="node2" href="$class_tile_manager.html#a78b5e284a7401f3b5b0f7c039a8b8ce9" title="TileManager::operator=" alt="" coords="228,120,401,147"/>
+<area shape="rect" id="node3" href="$class_tile_manager.html#ae7bf5bfda38b510178f884ed2ba14a4f" title="TileManager::getTexture" alt="" coords="227,171,402,197"/>
+<area shape="rect" id="node16" href="$class_tile_manager.html#a0635992377296446c67c5d41b48e8826" title="TileManager::getTileData" alt="" coords="225,221,405,248"/>
+<area shape="rect" id="node17" href="$class_tile_manager.html#a13b7eb0227feb294050c2effd85a7854" title="TileManager::caluclateSlope\lOrientation" alt="" coords="215,273,415,314"/>
+<area shape="rect" id="node18" href="$class_tile_manager.html#a5f3c1ce969bf9be5c919adcbcdd09b09" title="TileManager::caluclateTile\lOrientation" alt="" coords="222,338,407,379"/>
+<area shape="rect" id="node4" href="$class_resources_manager.html#a07675a89e82b607b0f001ff9eedaa3ae" title="Retrieves instance of Singleton class Texture Manager. " alt="" coords="463,144,668,171"/>
+<area shape="rect" id="node7" href="$class_resources_manager.html#a0df47a965118704fa6366053415a21c1" title="ResourcesManager::getTile\lTexture" alt="" coords="735,225,928,266"/>
+<area shape="rect" id="node5" href="$class_resources_manager.html#ac5dbb85c5d0f39dc95c830c63a4b8e8f" title="ResourcesManager::operator=" alt="" coords="723,5,940,32"/>
+<area shape="rect" id="node6" href="$class_resources_manager.html#aae2a2032792aaa57862eb9c494ae1cf2" title="ResourcesManager::getUITexture" alt="" coords="716,56,947,83"/>
+<area shape="rect" id="node8" href="$class_resources_manager.html#ad84710588e607e440931c6956a14aac7" title="ResourcesManager::getTile\lSurface" alt="" coords="735,107,928,149"/>
+<area shape="rect" id="node10" href="$class_resources_manager.html#a0a56e6316b8145494b7d551c29c41d80" title="ResourcesManager::loadTexture" alt="" coords="719,173,943,200"/>
+<area shape="rect" id="node9" href="$class_window_manager.html#a18bfae3e2d227c6a673fd5299abc9c4e" title="Retrieves instance of Singleton class WindowManager. " alt="" coords="995,115,1181,141"/>
+<area shape="rect" id="node11" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="1019,173,1157,200"/>
+<area shape="rect" id="node12" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1235,97,1371,124"/>
+<area shape="rect" id="node13" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="1424,123,1556,149"/>
+<area shape="rect" id="node14" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="1229,199,1376,225"/>
+<area shape="rect" id="node15" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="1236,249,1369,276"/>
+</map>

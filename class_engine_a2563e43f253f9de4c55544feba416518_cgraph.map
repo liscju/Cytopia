@@ -1,0 +1,16 @@
+<map id="Engine::increaseHeight" name="Engine::increaseHeight">
+<area shape="rect" id="node2" href="$class_map.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="223,76,376,103"/>
+<area shape="rect" id="node3" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="1178,81,1315,108"/>
+<area shape="rect" id="node8" href="$class_map.html#a153add29eff64eff309ecf1dd4b49ae4" title="Map::demolishNode" alt="" coords="424,167,573,193"/>
+<area shape="rect" id="node4" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1393,5,1529,32"/>
+<area shape="rect" id="node5" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="1583,31,1715,57"/>
+<area shape="rect" id="node6" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="1388,107,1535,133"/>
+<area shape="rect" id="node7" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="1395,157,1528,184"/>
+<area shape="rect" id="node9" href="$class_resources_manager.html#a07675a89e82b607b0f001ff9eedaa3ae" title="Retrieves instance of Singleton class Texture Manager. " alt="" coords="621,212,827,239"/>
+<area shape="rect" id="node13" href="$class_resources_manager.html#ad84710588e607e440931c6956a14aac7" title="ResourcesManager::getTile\lSurface" alt="" coords="893,351,1087,393"/>
+<area shape="rect" id="node10" href="$class_resources_manager.html#ac5dbb85c5d0f39dc95c830c63a4b8e8f" title="ResourcesManager::operator=" alt="" coords="881,132,1099,159"/>
+<area shape="rect" id="node11" href="$class_resources_manager.html#aae2a2032792aaa57862eb9c494ae1cf2" title="ResourcesManager::getUITexture" alt="" coords="875,183,1105,209"/>
+<area shape="rect" id="node12" href="$class_resources_manager.html#a0df47a965118704fa6366053415a21c1" title="ResourcesManager::getTile\lTexture" alt="" coords="893,234,1087,275"/>
+<area shape="rect" id="node15" href="$class_resources_manager.html#a0a56e6316b8145494b7d551c29c41d80" title="ResourcesManager::loadTexture" alt="" coords="878,300,1102,327"/>
+<area shape="rect" id="node14" href="$class_window_manager.html#a18bfae3e2d227c6a673fd5299abc9c4e" title="Retrieves instance of Singleton class WindowManager. " alt="" coords="1153,359,1340,385"/>
+</map>

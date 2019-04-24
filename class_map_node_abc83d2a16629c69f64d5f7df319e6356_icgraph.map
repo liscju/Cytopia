@@ -1,0 +1,7 @@
+<map id="MapNode::getSprite" name="MapNode::getSprite">
+<area shape="rect" id="node2" href="$class_map.html#a5464bd287786fafc3cb1a5aea3a70bd8" title="Map::highlightNode" alt="" coords="204,5,349,32"/>
+<area shape="rect" id="node3" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="397,5,600,32"/>
+<area shape="rect" id="node4" href="$class_game.html#a1ab78f5ed0d5ea879157357cf2fb2afa" title="Game::run" alt="" coords="648,5,739,32"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="787,5,909,32"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="957,5,1012,32"/>
+</map>

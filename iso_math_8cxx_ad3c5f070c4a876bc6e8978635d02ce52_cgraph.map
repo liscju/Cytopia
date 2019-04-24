@@ -1,0 +1,11 @@
+<map id="convertScreenToIsoCoordinates" name="convertScreenToIsoCoordinates">
+<area shape="rect" id="node2" href="$class_engine.html#a8f2ddf432ebcefaac2334d8c244f8a0c" title="Retrieves instance of Singleton class Engine. " alt="" coords="289,5,415,32"/>
+<area shape="rect" id="node4" href="$class_map.html#a4619fa631a0082754a92f1d3a8530bba" title="Map::findNodeInMap" alt="" coords="276,107,428,133"/>
+<area shape="rect" id="node5" href="$iso_math_8cxx.html#a0a076d973bc64ffa7859b894793c8000" title="Calculates screen space coordinates to isometric space coordinates. A formula is used to calculate th..." alt="" coords="476,81,651,108"/>
+<area shape="rect" id="node6" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="495,144,632,171"/>
+<area shape="rect" id="node3" href="$class_engine.html#a4759ed80f80add5731a7720d9666de56" title="Engine::operator=" alt="" coords="494,5,633,32"/>
+<area shape="rect" id="node7" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="704,68,840,95"/>
+<area shape="rect" id="node8" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="893,93,1025,120"/>
+<area shape="rect" id="node9" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="699,169,845,196"/>
+<area shape="rect" id="node10" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="705,220,839,247"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TextField::addText" name="TextField::addText">
+<area shape="rect" id="node2" href="$class_ui_element.html#a8b13d3a49fe20ba00d570107d353243f" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="185,31,396,57"/>
+<area shape="rect" id="node5" href="$class_ui_element.html#adba644faed3c4b68af8422c22e4ffd98" title="Sets the x,y position of this ui element Sets the x,y position of the ui element. ..." alt="" coords="207,81,374,108"/>
+<area shape="rect" id="node3" href="$class_ui_element.html#aa72c58a1dd8faf0da8e3d4d554a58ebf" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="491,5,670,32"/>
+<area shape="rect" id="node4" href="$class_ui_element.html#a85aa323d260cf7b2f645842bedf4e1ad" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="444,56,717,83"/>
+</map>

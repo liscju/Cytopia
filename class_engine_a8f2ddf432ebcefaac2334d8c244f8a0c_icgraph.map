@@ -1,0 +1,15 @@
+<map id="Engine::instance" name="Engine::instance">
+<area shape="rect" id="node2" href="$class_camera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Camera::increaseZoomLevel" alt="" coords="457,233,664,260"/>
+<area shape="rect" id="node4" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="999,157,1202,184"/>
+<area shape="rect" id="node5" href="$class_game.html#a1ab78f5ed0d5ea879157357cf2fb2afa" title="Game::run" alt="" coords="1255,334,1345,361"/>
+<area shape="rect" id="node8" href="$class_camera.html#aeea39f352d5873495dea6f376cf3207e" title="Camera::decreaseZoomLevel" alt="" coords="455,132,667,158"/>
+<area shape="rect" id="node9" href="$class_camera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="180,182,397,209"/>
+<area shape="rect" id="node11" href="$iso_math_8hxx.html#ad3c5f070c4a876bc6e8978635d02ce52" title="converts screen space coordinates to isometric space coordinates. To convert screen coordinates in to..." alt="" coords="724,30,947,57"/>
+<area shape="rect" id="node12" href="$class_u_i_manager.html#a84dcffaff5331747b8916b7efa486f47" title="Get the UiElements Of aroup get Elements that are in UiGroup (m_uiGroups) " alt="" coords="192,436,385,478"/>
+<area shape="rect" id="node14" href="$class_game.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="Game::mainMenu" alt="" coords="767,385,903,412"/>
+<area shape="rect" id="node3" href="$class_camera.html#a1f8ecd427814c5a4970223c2d13b9310" title="Camera::setPinchDistance" alt="" coords="740,182,931,209"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1393,360,1516,386"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1564,360,1619,386"/>
+<area shape="rect" id="node10" href="$class_camera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map Centers the camera on the middle of the map. " alt="" coords="995,268,1207,310"/>
+<area shape="rect" id="node13" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="445,444,676,470"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Camera::setPinchDistance" name="Camera::setPinchDistance">
+<area shape="rect" id="node2" href="$class_camera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="504,132,721,159"/>
+<area shape="rect" id="node13" href="$class_camera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Camera::increaseZoomLevel" alt="" coords="247,183,453,209"/>
+<area shape="rect" id="node14" href="$class_camera.html#aeea39f352d5873495dea6f376cf3207e" title="Camera::decreaseZoomLevel" alt="" coords="244,259,456,285"/>
+<area shape="rect" id="node3" href="$iso_math_8cxx.html#abef3481b8248d064e79f9d0b2a27cfe7" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="780,31,981,57"/>
+<area shape="rect" id="node4" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="1041,56,1178,83"/>
+<area shape="rect" id="node9" href="$iso_math_8cxx.html#a229d5dd54cd4e1f43ed5911e4fd266d3" title="converts coordinates from isometric to screen space The given isometric coordinates (which contain he..." alt="" coords="769,132,992,159"/>
+<area shape="rect" id="node10" href="$class_engine.html#a8f2ddf432ebcefaac2334d8c244f8a0c" title="Retrieves instance of Singleton class Engine. " alt="" coords="817,183,944,209"/>
+<area shape="rect" id="node12" href="$class_map.html#ab69938ac0e56eb0da1d1701221f3d185" title="Map::refresh" alt="" coords="829,233,932,260"/>
+<area shape="rect" id="node5" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1232,31,1368,57"/>
+<area shape="rect" id="node6" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="1421,5,1553,32"/>
+<area shape="rect" id="node7" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="1227,81,1373,108"/>
+<area shape="rect" id="node8" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="1233,132,1367,159"/>
+<area shape="rect" id="node11" href="$class_engine.html#a4759ed80f80add5731a7720d9666de56" title="Engine::operator=" alt="" coords="1040,183,1179,209"/>
+</map>

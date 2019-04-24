@@ -1,0 +1,11 @@
+<map id="UIManager::changeResolution" name="UIManager::changeResolution">
+<area shape="rect" id="node2" href="$class_window_manager.html#a18bfae3e2d227c6a673fd5299abc9c4e" title="Retrieves instance of Singleton class WindowManager. " alt="" coords="270,23,457,49"/>
+<area shape="rect" id="node3" href="$class_window_manager.html#a02ff8708c66cbb980399eb967a37a937" title="WindowManager::setScreen\lResolution" alt="" coords="264,74,463,115"/>
+<area shape="rect" id="node9" href="$class_combo_box.html#a5d3aaf4c524802d59e1445919715be78" title="Get ID of selected element returns the ID of the selected element in the comboBox. " alt="" coords="277,140,450,167"/>
+<area shape="rect" id="node4" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="528,81,665,108"/>
+<area shape="rect" id="node5" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="736,5,872,32"/>
+<area shape="rect" id="node6" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="925,31,1057,57"/>
+<area shape="rect" id="node7" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="731,107,877,133"/>
+<area shape="rect" id="node8" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="737,157,871,184"/>
+<area shape="rect" id="node10" href="$class_combo_box.html#ad0dba514b01ed2bb3c41c738c80a7d6a" title="ComboBox::setActiveID" alt="" coords="511,140,683,167"/>
+</map>

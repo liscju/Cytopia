@@ -1,0 +1,12 @@
+<map id="Engine::quitGame" name="Engine::quitGame">
+<area shape="rect" id="node2" href="$class_engine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="189,56,328,83"/>
+<area shape="rect" id="node3" href="$class_map.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="376,56,539,83"/>
+<area shape="rect" id="node4" href="$compression_8hxx.html#a25f341059256700f2f3ffd62d8113956" title="decompresses given string Decompresses a given string. " alt="" coords="587,5,725,32"/>
+<area shape="rect" id="node5" href="$class_map.html#a1197ab65e40dd20b891ba165471e3163" title="Map::Map" alt="" coords="614,56,698,83"/>
+<area shape="rect" id="node6" href="$class_map.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="605,107,707,133"/>
+<area shape="rect" id="node7" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="773,107,911,133"/>
+<area shape="rect" id="node8" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="964,31,1100,57"/>
+<area shape="rect" id="node9" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="1153,56,1285,83"/>
+<area shape="rect" id="node10" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="959,132,1105,159"/>
+<area shape="rect" id="node11" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="965,183,1099,209"/>
+</map>

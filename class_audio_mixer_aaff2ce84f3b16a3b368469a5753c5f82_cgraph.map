@@ -1,0 +1,8 @@
+<map id="AudioMixer::AudioMixer" name="AudioMixer::AudioMixer">
+<area shape="rect" id="node2" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="476,81,613,108"/>
+<area shape="rect" id="node7" href="$class_audio_mixer.html#a3c255511cf917e385bd99c6ff7dae12d" title="AudioMixer::setMusicVolume" alt="" coords="224,107,428,133"/>
+<area shape="rect" id="node3" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="667,5,803,32"/>
+<area shape="rect" id="node4" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="856,31,988,57"/>
+<area shape="rect" id="node5" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="661,107,808,133"/>
+<area shape="rect" id="node6" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="668,157,801,184"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="UiElement::createTextTexture" name="UiElement::createTextTexture">
+<area shape="rect" id="node2" href="$class_ui_element.html#a1ab05e730a03275f366b136186f6d15a" title="UiElement::setText" alt="" coords="261,38,403,65"/>
+<area shape="rect" id="node3" href="$class_ui_element.html#aa2ff61bbef010bfb8a2c85ec7ee4656f" title="UiElement::setLayoutGroupName" alt="" coords="451,13,688,39"/>
+<area shape="rect" id="node10" href="$class_text.html#ac72a27151b0831ec61a9183d35f7ed77" title="Text::Text" alt="" coords="529,63,609,90"/>
+<area shape="rect" id="node4" href="$class_u_i_manager.html#afae0ed3b714343e486df4a636d48cb04" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="736,13,971,39"/>
+<area shape="rect" id="node5" href="$class_u_i_manager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="1019,5,1205,47"/>
+<area shape="rect" id="node6" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="1253,13,1372,39"/>
+<area shape="rect" id="node7" href="$class_game.html#a1ab78f5ed0d5ea879157357cf2fb2afa" title="Game::run" alt="" coords="1420,13,1511,39"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1559,13,1681,39"/>
+<area shape="rect" id="node9" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1729,13,1784,39"/>
+</map>

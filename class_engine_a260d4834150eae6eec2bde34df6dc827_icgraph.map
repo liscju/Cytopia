@@ -1,0 +1,5 @@
+<map id="Engine::newGame" name="Engine::newGame">
+<area shape="rect" id="node2" href="$class_engine.html#af7de8d74b0cfacaf06df53e7caf11538" title="Engine::saveGame" alt="" coords="191,5,333,32"/>
+<area shape="rect" id="node3" href="$class_u_i_manager.html#a84dcffaff5331747b8916b7efa486f47" title="Get the UiElements Of aroup get Elements that are in UiGroup (m_uiGroups) " alt="" coords="381,23,575,65"/>
+<area shape="rect" id="node4" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="623,31,853,57"/>
+</map>

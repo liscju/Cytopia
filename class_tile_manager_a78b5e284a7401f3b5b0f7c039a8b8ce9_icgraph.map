@@ -1,0 +1,8 @@
+<map id="TileManager::operator=" name="TileManager::operator=">
+<area shape="rect" id="node2" href="$class_tile_manager.html#a65e916d2e14c8c1675fc70facd71cd0e" title="Retrieves instance of Singleton class TileManager. " alt="" coords="227,56,388,83"/>
+<area shape="rect" id="node3" href="$class_map_node.html#a397a62e9263feef6c9c85b4e17ef31cb" title="MapNode::setTileID" alt="" coords="479,5,624,32"/>
+<area shape="rect" id="node5" href="$class_menu_group_build.html#afe78eacb71e9b5ebe9adaae92c0378cc" title="MenuGroupBuild::constructMenu" alt="" coords="436,56,667,83"/>
+<area shape="rect" id="node6" href="$class_u_i_manager.html#a84dcffaff5331747b8916b7efa486f47" title="Get the UiElements Of aroup get Elements that are in UiGroup (m_uiGroups) " alt="" coords="455,107,648,149"/>
+<area shape="rect" id="node4" href="$class_map_node.html#ada85d1696216b7fb6aa77f59e073d54f" title="MapNode::getTileID" alt="" coords="757,5,903,32"/>
+<area shape="rect" id="node7" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="715,115,945,141"/>
+</map>

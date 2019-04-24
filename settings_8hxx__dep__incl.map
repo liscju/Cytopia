@@ -1,0 +1,18 @@
+<map id="/home/travis/build/JimmySnails/Cytopia/src/engine/basics/settings.hxx" name="/home/travis/build/JimmySnails/Cytopia/src/engine/basics/settings.hxx">
+<area shape="rect" id="node2" href="$music_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/audio/music.cxx" alt="" coords="5,117,204,173"/>
+<area shape="rect" id="node3" href="$sound_effect_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/audio/soundEffect.cxx" alt="" coords="227,117,462,173"/>
+<area shape="rect" id="node4" href="$audio_mixer_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/audioMixer.cxx" alt="" coords="486,117,675,173"/>
+<area shape="rect" id="node5" href="$camera_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/basics/camera.cxx" alt="" coords="700,117,915,173"/>
+<area shape="rect" id="node6" href="$iso_math_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/basics/isoMath.cxx" alt="" coords="939,117,1153,173"/>
+<area shape="rect" id="node7" href="$settings_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/basics/settings.cxx" alt="" coords="1178,117,1394,173"/>
+<area shape="rect" id="node8" href="$engine_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/engine.cxx" alt="" coords="1419,117,1583,173"/>
+<area shape="rect" id="node9" href="$event_manager_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/eventManager.cxx" alt="" coords="1607,117,1819,173"/>
+<area shape="rect" id="node10" href="$map_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/map.cxx" alt="" coords="1842,117,1997,173"/>
+<area shape="rect" id="node11" href="$resources_manager_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/resourcesManager.cxx" alt="" coords="2021,117,2260,173"/>
+<area shape="rect" id="node12" href="$tile_manager_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/tileManager.cxx" alt="" coords="2285,117,2479,173"/>
+<area shape="rect" id="node13" href="$_layout_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/ui/basics\l/Layout.cxx" alt="" coords="2503,109,2658,180"/>
+<area shape="rect" id="node14" href="$_menu_group_build_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/ui/menuGroups\l/MenuGroupBuild.cxx" alt="" coords="2682,109,2877,180"/>
+<area shape="rect" id="node15" href="$ui_manager_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/uiManager.cxx" alt="" coords="2901,117,3087,173"/>
+<area shape="rect" id="node16" href="$window_manager_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/engine/windowManager.cxx" alt="" coords="3111,117,3333,173"/>
+<area shape="rect" id="node17" href="$game_8cxx.html" title="/home/travis/build\l/JimmySnails/Cytopia\l/src/game.cxx" alt="" coords="3357,117,3511,173"/>
+</map>

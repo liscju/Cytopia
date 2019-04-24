@@ -1,0 +1,13 @@
+<map id="UiElement::getUiElementData" name="UiElement::getUiElementData">
+<area shape="rect" id="node2" href="$class_layout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="291,38,474,65"/>
+<area shape="rect" id="node9" href="$class_u_i_manager.html#aae5af90383409dfe683f3b6e355f17cb" title="Callback function for toggling the visibility of an UiGroup Callback function for Ui Widgets with the..." alt="" coords="268,101,497,128"/>
+<area shape="rect" id="node11" href="$class_u_i_manager.html#a84dcffaff5331747b8916b7efa486f47" title="Get the UiElements Of aroup get Elements that are in UiGroup (m_uiGroups) " alt="" coords="566,148,759,190"/>
+<area shape="rect" id="node3" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="1149,38,1267,65"/>
+<area shape="rect" id="node7" href="$class_u_i_manager.html#afae0ed3b714343e486df4a636d48cb04" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="545,38,780,65"/>
+<area shape="rect" id="node4" href="$class_game.html#a1ab78f5ed0d5ea879157357cf2fb2afa" title="Game::run" alt="" coords="1357,66,1448,93"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1496,66,1619,93"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1667,66,1721,93"/>
+<area shape="rect" id="node8" href="$class_u_i_manager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="850,31,1037,72"/>
+<area shape="rect" id="node10" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="1107,93,1309,120"/>
+<area shape="rect" id="node12" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="828,156,1059,182"/>
+</map>

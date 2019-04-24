@@ -1,0 +1,8 @@
+<map id="TileDataUi::loadFile" name="TileDataUi::loadFile">
+<area shape="rect" id="node2" href="$class_tile_data_container.html#acf0046d9f6650c15033f02d62566d100" title="TileDataContainer::\lloadFile" alt="" coords="196,5,340,47"/>
+<area shape="rect" id="node3" href="$class_tile_data_container.html#a0a5d48546e9e4f7b9c3193913b95553f" title="TileDataContainer::\lhasTileData" alt="" coords="196,71,340,112"/>
+<area shape="rect" id="node4" href="$class_tile_data_container.html#a6880b0eb716da4af43893b9b973ee926" title="TileDataContainer::\lgetTileData" alt="" coords="196,136,340,177"/>
+<area shape="rect" id="node5" href="$class_tile_data_container.html#ac86facf997f800fe00ea6273478efa37" title="TileDataContainer::\lremoveTileData" alt="" coords="196,201,340,243"/>
+<area shape="rect" id="node6" href="$class_tile_data_container.html#a8cd9d9a1a51df005920203a60d28248a" title="TileDataContainer::\laddTileData" alt="" coords="196,267,340,308"/>
+<area shape="rect" id="node7" href="$class_tile_data_container.html#add94dcd5551ca7e2f09cf56452f13283" title="TileDataContainer::\lsaveFile" alt="" coords="196,332,340,373"/>
+</map>

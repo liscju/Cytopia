@@ -1,0 +1,4 @@
+<map id="Game::initialize" name="Game::initialize">
+<area shape="rect" id="node2" href="$class_window_manager.html#a18bfae3e2d227c6a673fd5299abc9c4e" title="Retrieves instance of Singleton class WindowManager. " alt="" coords="180,5,367,32"/>
+<area shape="rect" id="node3" href="$class_window_manager.html#a2c3864d9a5b567c83b4799d97b38383a" title="WindowManager::setWindow\lTitle" alt="" coords="173,57,373,98"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Settings::instance" name="Settings::instance">
+<area shape="rect" id="node2" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="196,5,332,32"/>
+<area shape="rect" id="node3" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="385,31,517,57"/>
+<area shape="rect" id="node4" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="191,107,337,133"/>
+<area shape="rect" id="node5" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="197,157,331,184"/>
+</map>

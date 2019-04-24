@@ -1,0 +1,9 @@
+<map id="UIManager::getAllLayoutGroups" name="UIManager::getAllLayoutGroups">
+<area shape="rect" id="node2" href="$class_layout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="277,5,460,32"/>
+<area shape="rect" id="node3" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="1025,7,1144,33"/>
+<area shape="rect" id="node7" href="$class_u_i_manager.html#afae0ed3b714343e486df4a636d48cb04" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="508,32,743,59"/>
+<area shape="rect" id="node4" href="$class_game.html#a1ab78f5ed0d5ea879157357cf2fb2afa" title="Game::run" alt="" coords="1192,7,1283,33"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1331,7,1453,33"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1501,7,1556,33"/>
+<area shape="rect" id="node8" href="$class_u_i_manager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="791,29,977,70"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TileDataUi::TileDataUi" name="TileDataUi::TileDataUi">
+<area shape="rect" id="node2" href="$class_ui___tile_data_ui.html#a52c5ea12df140fd8ce3ca46b0261c85e" title="Ui_TileDataUi::setupUi" alt="" coords="225,5,389,32"/>
+<area shape="rect" id="node4" href="$class_ui___tile_set_data_ui.html#ab275bbb46046739df25f965b5cf369fd" title="Ui_TileSetDataUi::setupUi" alt="" coords="213,56,400,83"/>
+<area shape="rect" id="node3" href="$class_ui___tile_data_ui.html#a9810ffead18beee886e4a6a0faa471cc" title="Ui_TileDataUi::retranslateUi" alt="" coords="459,5,657,32"/>
+<area shape="rect" id="node5" href="$class_ui___tile_set_data_ui.html#ae626d9a16a8a5187b91d09e9d221d460" title="Ui_TileSetDataUi::retranslateUi" alt="" coords="448,56,668,83"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Settings::Settings" name="Settings::Settings">
+<area shape="rect" id="node2" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="189,680,327,707"/>
+<area shape="rect" id="node3" href="$class_sound_effect.html#ae4065f177b1413856293315de08da78d" title="Play sound effect Plays the loaded sound effect file. " alt="" coords="435,5,568,32"/>
+<area shape="rect" id="node4" href="$class_audio_mixer.html#aaff2ce84f3b16a3b368469a5753c5f82" title="AudioMixer::AudioMixer" alt="" coords="714,81,885,108"/>
+<area shape="rect" id="node5" href="$class_audio_mixer.html#a3c255511cf917e385bd99c6ff7dae12d" title="AudioMixer::setMusicVolume" alt="" coords="399,56,603,83"/>
+<area shape="rect" id="node6" href="$class_audio_mixer.html#ae96d86fe9a64ff969a09c406cf718801" title="AudioMixer::setSoundEffect\lVolume" alt="" coords="403,158,600,199"/>
+<area shape="rect" id="node7" href="$class_audio_mixer.html#ac581ee109b15486623f99825a315f9eb" title="AudioMixer::mute" alt="" coords="434,224,569,251"/>
+<area shape="rect" id="node8" href="$class_camera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="1468,629,1685,656"/>
+<area shape="rect" id="node11" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="2257,756,2460,783"/>
+<area shape="rect" id="node15" href="$class_camera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map Centers the camera on the middle of the map. " alt="" coords="1749,462,1961,503"/>
+<area shape="rect" id="node16" href="$iso_math_8hxx.html#ad3c5f070c4a876bc6e8978635d02ce52" title="converts screen space coordinates to isometric space coordinates. To convert screen coordinates in to..." alt="" coords="688,781,911,808"/>
+<area shape="rect" id="node17" href="$iso_math_8hxx.html#abef3481b8248d064e79f9d0b2a27cfe7" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="1212,680,1413,707"/>
+<area shape="rect" id="node18" href="$class_engine.html#a260d4834150eae6eec2bde34df6dc827" title="Engine::newGame" alt="" coords="999,1355,1136,1381"/>
+<area shape="rect" id="node20" href="$class_u_i_manager.html#a84dcffaff5331747b8916b7efa486f47" title="Get the UiElements Of aroup get Elements that are in UiGroup (m_uiGroups) " alt="" coords="1480,1297,1673,1338"/>
+<area shape="rect" id="node22" href="$class_map.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="748,1304,851,1331"/>
+<area shape="rect" id="node25" href="$class_game.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="Game::mainMenu" alt="" coords="1509,1199,1645,1225"/>
+<area shape="rect" id="node26" href="$class_map.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="1236,832,1389,859"/>
+<area shape="rect" id="node31" href="$class_map.html#a4619fa631a0082754a92f1d3a8530bba" title="Map::findNodeInMap" alt="" coords="425,731,577,757"/>
+<area shape="rect" id="node32" href="$class_map.html#a153add29eff64eff309ecf1dd4b49ae4" title="Map::demolishNode" alt="" coords="993,883,1142,909"/>
+<area shape="rect" id="node34" href="$class_resources_manager.html#a0a56e6316b8145494b7d551c29c41d80" title="ResourcesManager::loadTexture" alt="" coords="389,1101,613,1128"/>
+<area shape="rect" id="node37" href="$class_tile_manager.html#a1575d9a9530e13fe0286b8fece9e47ea" title="TileManager::init" alt="" coords="1004,1203,1131,1229"/>
+<area shape="rect" id="node39" href="$class_menu_group_build.html#afe78eacb71e9b5ebe9adaae92c0378cc" title="MenuGroupBuild::constructMenu" alt="" coords="1461,1101,1692,1128"/>
+<area shape="rect" id="node41" href="$class_layout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="410,427,593,453"/>
+<area shape="rect" id="node42" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="1253,419,1372,445"/>
+<area shape="rect" id="node43" href="$class_u_i_manager.html#afae0ed3b714343e486df4a636d48cb04" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="682,376,917,403"/>
+<area shape="rect" id="node44" href="$class_u_i_manager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="974,361,1161,402"/>
+<area shape="rect" id="node45" href="$class_window_manager.html#a9469bbac86049d97b179a9359425345f" title="WindowManager::toggleFull\lScreen" alt="" coords="971,934,1164,975"/>
+<area shape="rect" id="node47" href="$class_window_manager.html#a8278bc3ba49817af2841625322d77997" title="WindowManager::setFullScreenMode" alt="" coords="375,325,628,352"/>
+<area shape="rect" id="node49" href="$class_window_manager.html#a02ff8708c66cbb980399eb967a37a937" title="WindowManager::setScreen\lResolution" alt="" coords="402,883,601,925"/>
+<area shape="rect" id="node9" href="$class_camera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Camera::increaseZoomLevel" alt="" coords="1752,680,1959,707"/>
+<area shape="rect" id="node10" href="$class_camera.html#a1f8ecd427814c5a4970223c2d13b9310" title="Camera::setPinchDistance" alt="" coords="2019,629,2209,656"/>
+<area shape="rect" id="node14" href="$class_camera.html#aeea39f352d5873495dea6f376cf3207e" title="Camera::decreaseZoomLevel" alt="" coords="1749,579,1961,605"/>
+<area shape="rect" id="node12" href="$class_game.html#a1ab78f5ed0d5ea879157357cf2fb2afa" title="Game::run" alt="" coords="2508,603,2599,629"/>
+<area shape="rect" id="node13" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="2647,873,2769,900"/>
+<area shape="rect" id="node19" href="$class_engine.html#af7de8d74b0cfacaf06df53e7caf11538" title="Engine::saveGame" alt="" coords="1241,1355,1384,1381"/>
+<area shape="rect" id="node21" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="1740,1304,1971,1331"/>
+<area shape="rect" id="node23" href="$class_map.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="986,1304,1149,1331"/>
+<area shape="rect" id="node24" href="$class_engine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="1243,1304,1382,1331"/>
+<area shape="rect" id="node27" href="$class_engine.html#a2563e43f253f9de4c55544feba416518" title="Increase Height Increases the height of the given map node Calls the according function of the Map ob..." alt="" coords="1771,832,1940,859"/>
+<area shape="rect" id="node29" href="$class_map.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="1497,883,1656,909"/>
+<area shape="rect" id="node28" href="$class_engine.html#a1261654b687459f800f1a71b2186eef5" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="2040,933,2188,960"/>
+<area shape="rect" id="node30" href="$class_engine.html#a64d67ab7a504b26fb7f7efca7abf3968" title="Decrease Height Decreases the height of the given map node Calls the according function of the Map ob..." alt="" coords="1768,883,1943,909"/>
+<area shape="rect" id="node33" href="$class_engine.html#a8ea1dc4f854268d57992b60e0fe70e02" title="Engine::demolishNode" alt="" coords="1773,933,1938,960"/>
+<area shape="rect" id="node35" href="$class_resources_manager.html#a07675a89e82b607b0f001ff9eedaa3ae" title="Retrieves instance of Singleton class Texture Manager. " alt="" coords="697,1101,902,1128"/>
+<area shape="rect" id="node36" href="$class_tile_manager.html#ae7bf5bfda38b510178f884ed2ba14a4f" title="TileManager::getTexture" alt="" coords="980,1152,1155,1179"/>
+<area shape="rect" id="node40" href="$class_ui_element.html#a3206ae575c2eea154f4ee89564741507" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="1225,1101,1400,1128"/>
+<area shape="rect" id="node38" href="$class_tile_manager.html#a682e1364119e3e5c41e4032fe4e206e1" title="TileManager::getAllTileData" alt="" coords="1215,1152,1410,1179"/>
+<area shape="rect" id="node46" href="$class_engine.html#aed0b02ad4a43a8fc71b4084a2b45b612" title="Engine::toggleFullScreen" alt="" coords="1766,984,1945,1011"/>
+<area shape="rect" id="node48" href="$class_u_i_manager.html#a0bac87f7bb4bb3bdaac4971dda521cf1" title="UIManager::changeFullScreenMode" alt="" coords="676,325,923,352"/>
+<area shape="rect" id="node50" href="$class_u_i_manager.html#a96b46005adcfb1a3e7fb8a4b56b22513" title="UIManager::changeResolution" alt="" coords="694,891,905,917"/>
+</map>

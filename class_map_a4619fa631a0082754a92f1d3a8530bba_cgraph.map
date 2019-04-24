@@ -1,0 +1,8 @@
+<map id="Map::findNodeInMap" name="Map::findNodeInMap">
+<area shape="rect" id="node2" href="$iso_math_8cxx.html#a0a076d973bc64ffa7859b894793c8000" title="Calculates screen space coordinates to isometric space coordinates. A formula is used to calculate th..." alt="" coords="205,31,380,57"/>
+<area shape="rect" id="node3" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="224,81,361,108"/>
+<area shape="rect" id="node4" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="433,5,569,32"/>
+<area shape="rect" id="node5" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="623,31,755,57"/>
+<area shape="rect" id="node6" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="428,107,575,133"/>
+<area shape="rect" id="node7" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="435,157,568,184"/>
+</map>

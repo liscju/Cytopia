@@ -1,0 +1,10 @@
+<map id="Map::loadMapFromFile" name="Map::loadMapFromFile">
+<area shape="rect" id="node2" href="$compression_8hxx.html#a25f341059256700f2f3ffd62d8113956" title="decompresses given string Decompresses a given string. " alt="" coords="216,5,355,32"/>
+<area shape="rect" id="node3" href="$class_map.html#a1197ab65e40dd20b891ba165471e3163" title="Map::Map" alt="" coords="243,56,327,83"/>
+<area shape="rect" id="node4" href="$class_map.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="234,107,337,133"/>
+<area shape="rect" id="node5" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="403,107,540,133"/>
+<area shape="rect" id="node6" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="593,31,729,57"/>
+<area shape="rect" id="node7" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="783,56,915,83"/>
+<area shape="rect" id="node8" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="588,132,735,159"/>
+<area shape="rect" id="node9" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="595,183,728,209"/>
+</map>

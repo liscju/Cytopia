@@ -1,0 +1,11 @@
+<map id="Engine::saveGame" name="Engine::saveGame">
+<area shape="rect" id="node2" href="$class_map.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="196,5,343,32"/>
+<area shape="rect" id="node4" href="$class_engine.html#a260d4834150eae6eec2bde34df6dc827" title="Engine::newGame" alt="" coords="201,56,338,83"/>
+<area shape="rect" id="node3" href="$compression_8hxx.html#a2b136078ca5d23222e9c24092a9918fa" title="Compress a given string with zlib Compress the given string. Returns an empty string if something wen..." alt="" coords="391,5,513,32"/>
+<area shape="rect" id="node5" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="561,81,699,108"/>
+<area shape="rect" id="node10" href="$class_map.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="401,107,503,133"/>
+<area shape="rect" id="node6" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="752,5,888,32"/>
+<area shape="rect" id="node7" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="941,31,1073,57"/>
+<area shape="rect" id="node8" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="747,107,893,133"/>
+<area shape="rect" id="node9" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="753,157,887,184"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="108,611,231,637"/>
+<area shape="rect" id="node3" href="$class_game.html#afa220e533b80333d5b3c8dbba01fdd16" title="Game::initialize" alt="" coords="284,235,404,261"/>
+<area shape="rect" id="node6" href="$class_game.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="Game::mainMenu" alt="" coords="771,411,907,437"/>
+<area shape="rect" id="node30" href="$class_game.html#a1ab78f5ed0d5ea879157357cf2fb2afa" title="Game::run" alt="" coords="299,763,389,789"/>
+<area shape="rect" id="node50" href="$class_game.html#aee1b95e6fd0cb0f441c3b7cef73b1abe" title="Game::shutdown" alt="" coords="279,813,409,840"/>
+<area shape="rect" id="node4" href="$class_window_manager.html#a18bfae3e2d227c6a673fd5299abc9c4e" title="Retrieves instance of Singleton class WindowManager. " alt="" coords="1307,461,1494,488"/>
+<area shape="rect" id="node5" href="$class_window_manager.html#a2c3864d9a5b567c83b4799d97b38383a" title="WindowManager::setWindow\lTitle" alt="" coords="467,227,667,269"/>
+<area shape="rect" id="node7" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="1040,1085,1177,1112"/>
+<area shape="rect" id="node12" href="$class_ui_element.html#a3206ae575c2eea154f4ee89564741507" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="1021,5,1196,32"/>
+<area shape="rect" id="node15" href="$class_ui_element.html#a5999dfe1356f6bb787a4ba478448ae3f" title="Sets the UI Elements visibility. Set the UI Elements visibility. " alt="" coords="1025,664,1192,691"/>
+<area shape="rect" id="node16" href="$class_ui_element.html#adba644faed3c4b68af8422c22e4ffd98" title="Sets the x,y position of this ui element Sets the x,y position of the ui element. ..." alt="" coords="1025,208,1192,235"/>
+<area shape="rect" id="node17" href="$class_ui_element.html#a8b13d3a49fe20ba00d570107d353243f" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="1003,917,1214,944"/>
+<area shape="rect" id="node19" href="$class_ui_element.html#a85aa323d260cf7b2f645842bedf4e1ad" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="1264,816,1537,843"/>
+<area shape="rect" id="node20" href="$class_button.html#a39d181d1c4ea1b3af1c252c0b63f96ce" title="Button::setText" alt="" coords="1049,259,1168,285"/>
+<area shape="rect" id="node21" href="$class_engine.html#a8f2ddf432ebcefaac2334d8c244f8a0c" title="Retrieves instance of Singleton class Engine. " alt="" coords="1045,1276,1172,1303"/>
+<area shape="rect" id="node23" href="$class_engine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="1331,132,1470,159"/>
+<area shape="rect" id="node25" href="$class_engine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Engine::quitGame" alt="" coords="1041,107,1177,133"/>
+<area shape="rect" id="node26" href="$class_image.html#aea00862523c7a5c9551655f2660d91a8" title="Image::setOpacity" alt="" coords="1039,309,1178,336"/>
+<area shape="rect" id="node27" href="$class_ui_element.html#a15ce008dd4e61acd5357f01cfb1987f4" title="UiElement::onMouseLeave" alt="" coords="1013,563,1205,589"/>
+<area shape="rect" id="node28" href="$class_ui_element.html#a1c4939d543a9ba7e1f7e4e217828d9c3" title="UiElement::onMouseMove" alt="" coords="1015,613,1203,640"/>
+<area shape="rect" id="node29" href="$class_ui_element.html#a411d9e79259e6fa74f31d1adae6d01f2" title="UiElement::onMouseEnter" alt="" coords="1015,360,1203,387"/>
+<area shape="rect" id="node8" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1333,1111,1469,1137"/>
+<area shape="rect" id="node9" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="1635,1136,1767,1163"/>
+<area shape="rect" id="node10" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="1327,1009,1474,1036"/>
+<area shape="rect" id="node11" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="1334,1060,1467,1087"/>
+<area shape="rect" id="node13" href="$class_resources_manager.html#a07675a89e82b607b0f001ff9eedaa3ae" title="Retrieves instance of Singleton class Texture Manager. " alt="" coords="1298,31,1503,57"/>
+<area shape="rect" id="node14" href="$class_resources_manager.html#aae2a2032792aaa57862eb9c494ae1cf2" title="ResourcesManager::getUITexture" alt="" coords="1585,5,1816,32"/>
+<area shape="rect" id="node18" href="$class_ui_element.html#aa72c58a1dd8faf0da8e3d4d554a58ebf" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="1311,917,1490,944"/>
+<area shape="rect" id="node22" href="$class_engine.html#a4759ed80f80add5731a7720d9666de56" title="Engine::operator=" alt="" coords="1331,1276,1470,1303"/>
+<area shape="rect" id="node24" href="$class_map.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="1619,132,1782,159"/>
+<area shape="rect" id="node31" href="$class_timer.html#a3a8b5272198d029779dc9302a54305a8" title="Start / Reset the timer Starts or restarts the timer. If the timer is already running, it will be stopped and restarted. " alt="" coords="791,512,887,539"/>
+<area shape="rect" id="node32" href="$class_timer.html#a5fd65dd710c8229cb24d02f761a0b15f" title="get elapsed time Returns the time in milliseconds, that has passed since the timer was started..." alt="" coords="755,1237,923,1264"/>
+<area shape="rect" id="node33" href="$class_camera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map Centers the camera on the middle of the map. " alt="" coords="461,1281,673,1322"/>
+<area shape="rect" id="node35" href="$class_u_i_manager.html#a08fb1bfd975036ddbc277166560d243d" title="Retrieves instance of Singleton class UI Manager. " alt="" coords="1032,1352,1185,1379"/>
+<area shape="rect" id="node36" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="507,1035,626,1061"/>
+<area shape="rect" id="node40" href="$class_audio_mixer.html#ada9dfaaa82dcef56f291d80620f4208c" title="AudioMixer::playMusic" alt="" coords="485,1491,648,1517"/>
+<area shape="rect" id="node41" href="$class_engine.html#aea675ef41cb42dc56cb8d0d4e438dffb" title="Engine::isGameRunning" alt="" coords="481,1541,653,1568"/>
+<area shape="rect" id="node42" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="465,763,668,789"/>
+<area shape="rect" id="node47" href="$class_map.html#af31da75a16a46cb79c32d821e2c2163e" title="Map::renderMap" alt="" coords="503,472,630,499"/>
+<area shape="rect" id="node48" href="$class_u_i_manager.html#ad2b90c4bbfd0648a62a412f04418ac8e" title="Renders all UI Widgets. " alt="" coords="495,523,638,549"/>
+<area shape="rect" id="node49" href="$class_u_i_manager.html#af50a21a5d5c01979f13f83346fe1ae1e" title="Helper function to update the FPS Counter. " alt="" coords="457,573,676,600"/>
+<area shape="rect" id="node34" href="$class_camera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="730,1339,947,1365"/>
+<area shape="rect" id="node37" href="$class_u_i_manager.html#a25c89c96fba74a8fa9613a7fb1df9a00" title="Get the Ui Element By ID Finds and returns an UiElement by its elementID parameter. " alt="" coords="1001,1035,1216,1061"/>
+<area shape="rect" id="node38" href="$class_u_i_manager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="745,969,932,1010"/>
+<area shape="rect" id="node39" href="$class_layout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="747,1085,930,1112"/>
+<area shape="rect" id="node43" href="$class_u_i_manager.html#aae5af90383409dfe683f3b6e355f17cb" title="Callback function for toggling the visibility of an UiGroup Callback function for Ui Widgets with the..." alt="" coords="724,664,953,691"/>
+<area shape="rect" id="node44" href="$class_engine.html#a1261654b687459f800f1a71b2186eef5" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="765,715,913,741"/>
+<area shape="rect" id="node45" href="$class_engine.html#aed0b02ad4a43a8fc71b4084a2b45b612" title="Engine::toggleFullScreen" alt="" coords="1019,715,1198,741"/>
+<area shape="rect" id="node46" href="$class_u_i_manager.html#adc4fc26d57014ef94c8ad4e875dbf732" title="Toggle Visibility of Debug Menu. " alt="" coords="731,917,947,944"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="/home/travis/build/JimmySnails/Cytopia/src/engine/ui/basics/buttonGroup.hxx" name="/home/travis/build/JimmySnails/Cytopia/src/engine/ui/basics/buttonGroup.hxx">
+<area shape="rect" id="node2" href="$ui_element_8hxx.html" title="uiElement.hxx" alt="" coords="799,273,911,300"/>
+<area shape="rect" id="node19" href="$button_8hxx.html" title="../widgets/button.hxx" alt="" coords="867,124,1022,151"/>
+<area shape="rect" id="node4" href="$map_edit_8hxx.html" title="../../basics/mapEdit.hxx" alt="" coords="1003,497,1172,524"/>
+<area shape="rect" id="node5" href="$resources_manager_8hxx.html" title="../../resourcesManager.hxx" alt="" coords="168,348,359,375"/>
+<area shape="rect" id="node11" href="$window_manager_8hxx.html" title="../../windowManager.hxx" alt="" coords="456,348,628,375"/>
+<area shape="rect" id="node13" href="$signal_8hxx.html" title="../../basics/signal.hxx" alt="" coords="709,348,863,375"/>
+<area shape="rect" id="node9" href="$tile_manager_8hxx.html" title="tileManager.hxx" alt="" coords="103,423,226,449"/>
+<area shape="rect" id="node10" href="$tile_data_8hxx.html" title="basics/tileData.hxx" alt="" coords="212,497,355,524"/>
+<area shape="rect" id="node20" href="$text_8hxx.html" title="text.hxx" alt="" coords="919,199,992,225"/>
+</map>

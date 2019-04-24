@@ -1,0 +1,5 @@
+<map id="ComboBox::draw" name="ComboBox::draw">
+<area shape="rect" id="node2" href="$class_ui_element.html#ab895b67e2f73bac9768b99bc64bd2080" title="Change the Texture of the button Changes the texture. " alt="" coords="184,5,393,32"/>
+<area shape="rect" id="node4" href="$class_ui_element.html#ad3ad04df3667ac6c388a319511bff7d1" title="Draws a filled rectangle to the screen. Draws a filled rectangle to the screen. " alt="" coords="447,56,631,83"/>
+<area shape="rect" id="node3" href="$class_ui_element.html#a6d04ce7305c5c309e846100bd510dd49" title="Get the button state Get the current mouse button pressed state. " alt="" coords="441,5,636,32"/>
+</map>

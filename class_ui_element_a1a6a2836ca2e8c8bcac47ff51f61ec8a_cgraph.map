@@ -1,0 +1,5 @@
+<map id="UiElement::drawImageButtonFrame" name="UiElement::drawImageButtonFrame">
+<area shape="rect" id="node2" href="$class_window_manager.html#a18bfae3e2d227c6a673fd5299abc9c4e" title="Retrieves instance of Singleton class WindowManager. " alt="" coords="275,5,461,32"/>
+<area shape="rect" id="node3" href="$class_window_manager.html#adebfe2299e543cd794caeb1bcb8a2233" title="get SDL Renderer Returns a pointer to the SDL Renderer " alt="" coords="263,56,473,83"/>
+<area shape="rect" id="node4" href="$class_window_manager.html#aca5cf0b17e313e312ca119ffac47c3f9" title="get SDL Window Returns a pointer to the SDL_Window " alt="" coords="267,107,469,133"/>
+</map>
